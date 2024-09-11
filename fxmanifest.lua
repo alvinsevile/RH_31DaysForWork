@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'TuNombre'
+author 'RHScripts'
 description 'Asignación de trabajo temporal de 31 días con marker y blip para ESX y QBCore.'
 version '1.0.0'
 
