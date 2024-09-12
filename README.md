@@ -64,7 +64,7 @@ Config.JobPrice = 150000 -- Price to acquire the job
 
 ```
 
-# Explicación de las opciones:
+# Options Explanation:
 
 - Framework: Select between esx or qbcore depending on your server.
 - MarkerPos: Coordinates where the marker will appear for players to purchase the job.
